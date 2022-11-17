@@ -4,4 +4,4 @@ the Kaggle platform works.
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-Accuracy scrone on Kaggle - 0.81818
+Accuracy score on Kaggle - 0.81818
