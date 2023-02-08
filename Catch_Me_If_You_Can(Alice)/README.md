@@ -28,3 +28,10 @@ Loiseau и Olivier Raynaud.
 ## Result
 
  - [ROC_AUC on LB >0.96](https://www.kaggle.com/mstanislaus/competitions)
+
+## FROM THE AUTHOR
+
+In accordance with the terms of the competition, the presented notebook does not contain a 100% solution, but only the key points. ROC_AUC for 
+this laptop on LB > 0.95.5.
+
+If my decision helped you, you can give me a star =) Good luck!
