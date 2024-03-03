@@ -18,4 +18,8 @@
 <td><a href = "https://github.com/Sata9islav/Kaggle/tree/master/Price_for_used_car">Cost of used cars</a></td>
 <td>MAPE=17.24</td>
 </tr>
+<tr>
+<td><a href="https://github.com/Sata9islav/Kaggle/tree/main/Natural_language_preprocessing">Natural Language Processing with Disaster Tweets</a></td>
+<td>F1>0.83</td>
+</tr>
 </table>
